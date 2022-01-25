@@ -1,4 +1,3 @@
-
 # Lab2
 
 * *Date Created*: 25/01/2022
