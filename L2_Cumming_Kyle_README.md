@@ -18,7 +18,7 @@ No external resources were used when completing this lab
 
 What is the scope of a const variable?
 
-The scope of a const variable is block scope. 
+The scope of a const variable is block scope. A const variable would be used when you know that the variable will not have to be changed and will remain the same throughout the whole project.
 
 When were the let and const keywords added to JavaScript?
 
